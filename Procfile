@@ -1,0 +1,1 @@
+web: gunicorn pwdSelector.wsgi --log-file
